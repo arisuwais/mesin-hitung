@@ -1,0 +1,15 @@
+{
+  "name": "c17",
+  "version": "1.0.0",
+  "description": "",
+  "main": "17run.js",
+  "scripts": {
+    "start": "babel-node 17run.js"
+  },
+  "author": "",
+  "license": "ISC",
+  "devDependencies": {
+    "babel-cli": "^6.26.0",
+    "babel-preset-es2015": "^6.24.1"
+  }
+}
